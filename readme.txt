@@ -13,3 +13,6 @@ This is the first kata in series:
 Find the unique number (this kata)
 Find the unique string
 Find The Unique
+
+// Here is some additional information form Navid:
+// Link: https://www.freecodecamp.org/news/4-methods-to-search-an-array/
